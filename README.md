@@ -1,6 +1,6 @@
 # AITrojan Detection
 
-Our tool provides the state-of-art AI trojan detection mechanism. Due to the trend of trojan attacks, it is critical for developers to scan the 3rd-party AI model before intergreting into the product. Based on our experience to protect various of AI products in JD.com, we generalized the demandings to this tool, which including the following key features:
+Our tool provides the state-of-art AI trojan detection mechanism. Due to the trend of trojan attacks, it is critical for developers to scan the 3rd-party AI model before importing into the product. Based on our experience to protect various of AI products in JD.com, we generalized the demanding to this tool, which including the following key features:
 
 * Framework-agnostic: We support the models developed on most popular ML frameworks, such as Keras, Tensorflow and pytorch.
 * Seed Free: Our tool "reverse engineer" seed (valid input samples) on each label.
